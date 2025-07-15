@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/craftYourLifeBundle/static/css/main.db424472.css",
-    "main.js": "/craftYourLifeBundle/static/js/main.df97390a.js",
-    "static/js/453.dac0b92a.chunk.js": "/craftYourLifeBundle/static/js/453.dac0b92a.chunk.js",
-    "index.html": "/craftYourLifeBundle/index.html",
-    "main.db424472.css.map": "/craftYourLifeBundle/static/css/main.db424472.css.map",
-    "main.df97390a.js.map": "/craftYourLifeBundle/static/js/main.df97390a.js.map",
-    "453.dac0b92a.chunk.js.map": "/craftYourLifeBundle/static/js/453.dac0b92a.chunk.js.map"
+    "main.css": "/static/css/main.db424472.css",
+    "main.js": "/static/js/main.b6d1d070.js",
+    "static/js/453.dac0b92a.chunk.js": "/static/js/453.dac0b92a.chunk.js",
+    "index.html": "/index.html",
+    "main.db424472.css.map": "/static/css/main.db424472.css.map",
+    "main.b6d1d070.js.map": "/static/js/main.b6d1d070.js.map",
+    "453.dac0b92a.chunk.js.map": "/static/js/453.dac0b92a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db424472.css",
-    "static/js/main.df97390a.js"
+    "static/js/main.b6d1d070.js"
   ]
 }
