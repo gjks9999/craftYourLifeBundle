@@ -1,3 +1,44 @@
 # https://www.robotstxt.org/robotstxt.html
+# Allow all search engines to crawl and index the site
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /*.json$
+Disallow: /*.pdf$
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# Slow down crawler traffic to avoid overloading the server
+Crawl-delay: 1
+
+# Reference to sitemap
+Sitemap: https://www.srilatharakesh.com/sitemap.xml
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0.5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots and scrapers
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /

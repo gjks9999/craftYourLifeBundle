@@ -1,11 +1,13 @@
 {
   "short_name": "Srilatha Rakesh",
-  "name": "Create Srilatha Rakesh Sample",
+  "name": "Srilatha Rakesh - Life Coaching & Personal Development",
+  "description": "Expert life coaching services including 1-on-1 coaching, group coaching, workshops, and digital support for personal transformation.",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/x-icon",
+      "purpose": "any"
     },
     {
       "src": "logo192.png",
@@ -18,8 +20,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "theme_color": "#1f2937",
+  "background_color": "#ffffff",
+  "categories": ["business", "lifestyle"]
 }
