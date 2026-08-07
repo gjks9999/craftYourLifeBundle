@@ -4,7 +4,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://www.srilatharakesh.com/</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,23 +12,31 @@
   <!-- About page -->
   <url>
     <loc>https://www.srilatharakesh.com/#/about</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Services page -->
+  <!-- Blog listing page -->
   <url>
-    <loc>https://www.srilatharakesh.com/#/services</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://www.srilatharakesh.com/#/blog</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Contact page -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/contact</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 
   <!-- Procural Well-Being Program -->
   <url>
     <loc>https://www.srilatharakesh.com/#/procural-well-being</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -36,16 +44,96 @@
   <!-- Employee Feedback Form -->
   <url>
     <loc>https://www.srilatharakesh.com/#/employee-feedbackform</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
-  <!-- Contact page -->
+  <!-- Blog: Anxiety Overwhelm -->
   <url>
-    <loc>https://www.srilatharakesh.com/#/contact</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://www.srilatharakesh.com/#/blog/anxiety-overwhelm-signs-and-help</loc>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: Depression Signs -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/depression-signs-you-may-be-missing</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: Burnout Recovery -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/burnout-not-just-being-busy</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: Panic Attacks -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/panic-attacks-what-they-feel-like</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: Loneliness and Isolation -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/loneliness-isolation-and-mental-health</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: Grief and Loss -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/grief-and-loss-after-life-changes</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: Imposter Syndrome -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/imposter-syndrome-and-self-doubt</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: Trauma Triggers -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/trauma-triggers-and-nervous-system</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: ADHD Overwhelm -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/adhd-overwhelm-and-executive-dysfunction</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: Intrusive Thoughts -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/intrusive-thoughts-and-mental-chatter</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog: People-Pleasing and Codependency -->
+  <url>
+    <loc>https://www.srilatharakesh.com/#/blog/codependency-people-pleasing-and-mental-health</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
